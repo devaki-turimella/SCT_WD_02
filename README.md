@@ -16,12 +16,6 @@ A single-file, browser-based stopwatch with a clock-style analog face, digital r
   | `R`     | Reset         |
 - **Responsive layout** — clock and controls resize for mobile screens (≤600px)
 
-## Files
-
-```
-Stopwatch web application.html   # everything — markup, styles, and logic in one file
-```
-
 ## Usage
 
 1. Open `Stopwatch web application.html` in any modern browser (Chrome, Firefox, Edge, Safari).
